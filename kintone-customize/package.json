@@ -1,0 +1,11 @@
+{
+  "name": "kintone-customize",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Base Node.js setup for kintone customization development.",
+  "scripts": {
+    "build": "echo \"No build step configured. Place your kintone JS files in src/ and deploy them to kintone.\"",
+    "lint": "echo \"No linting configured yet.\""
+  },
+  "dependencies": {}
+}
